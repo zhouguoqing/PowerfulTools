@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileScanExporter.cs" />
     <Compile Include="FileScanner.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +55,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScanFileInfo.cs" />
     <EmbeddedResource Include="FileScanner.resx">
       <DependentUpon>FileScanner.cs</DependentUpon>
     </EmbeddedResource>
