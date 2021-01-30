@@ -16,7 +16,7 @@ namespace FastFileScanner
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FileScanner());
+            Application.Run(new FastFileScaner());
         }
     }
 }

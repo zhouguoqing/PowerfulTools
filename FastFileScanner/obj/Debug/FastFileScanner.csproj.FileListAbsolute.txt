@@ -1,0 +1,10 @@
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.csprojAssemblyReference.cache
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.Properties.Resources.resources
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.csproj.GenerateResource.cache
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.csproj.CoreCompileInputs.cache
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\bin\Debug\FastFileScanner.exe.config
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\bin\Debug\FastFileScanner.exe
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\bin\Debug\FastFileScanner.pdb
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.exe
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.pdb
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.FastFileScaner.resources
