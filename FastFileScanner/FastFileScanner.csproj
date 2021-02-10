@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileMD5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileMD5.designer.cs">
+      <DependentUpon>FileMD5.cs</DependentUpon>
+    </Compile>
     <Compile Include="FileScanExporter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -56,6 +62,9 @@
     <Compile Include="FastFileScaner.designer.cs">
       <DependentUpon>FastFileScaner.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="FileMD5.resx">
+      <DependentUpon>FileMD5.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

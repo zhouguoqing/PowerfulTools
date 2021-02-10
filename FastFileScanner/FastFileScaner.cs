@@ -194,10 +194,10 @@ namespace FastFileScanner
                 return;
             }
 
-            //var md5 = new FileMD5();
-            //md5.SetFileName(this.btnMd5File.Text);
-            //md5.SetFileMD5(GetMD5HashFromFile(this.btnMd5File.Text));
-            //md5.ShowDialog();
+            var md5 = new FileMD5();
+            md5.SetFileName(this.btnMd5File.Text);
+            md5.SetFileMD5(GetMD5HashFromFile(this.btnMd5File.Text));
+            md5.ShowDialog();
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
