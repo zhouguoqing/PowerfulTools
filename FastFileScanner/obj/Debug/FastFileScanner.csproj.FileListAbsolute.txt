@@ -8,3 +8,4 @@ F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\bin\Debug\FastFileScanner.p
 F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.exe
 F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.pdb
 F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.FastFileScaner.resources
+F:\GitHub\Source\Repos\PowerfulTools\FastFileScanner\obj\Debug\FastFileScanner.FileMD5.resources
