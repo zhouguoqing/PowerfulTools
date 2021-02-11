@@ -171,7 +171,7 @@ namespace FastFileScanner
             }
             catch (Exception ex)
             {
-                throw new Exception("GetMD5HashFromFile() fail,error:" + ex.Message);
+                throw new Exception("Get MD5Hash From File failed,error:" + ex.Message);
             }
         }
 
